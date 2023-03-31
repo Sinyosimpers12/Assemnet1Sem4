@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">Assesment_Sinyo</string>
-    <string name="Panjang">Panjang</string>
-    <string name="lebar">Lebar</string>
-    <string name="Hitung">Hitung</string>
+    <string name="app_name" translatable="false">Assesment_Sinyo</string>
+    <string name="Panjang" translatable="false">Panjang</string>
+    <string name="lebar" translatable="false">Lebar</string>
+    <string name="Hitung" translatable="false">Hitung</string>
+    <string name="lebarIn" translatable="false">jangan kosong</string>
+    <string name="tinggi_invalid" translatable="false">jangan kosong</string>
+
 </resources>
